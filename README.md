@@ -37,5 +37,8 @@ The goal is to automate reporting tasks using Python's powerful data handling an
 - Weekly/monthly performance insights for dashboards.
 - Real-time insights for decision-making.
 
+# Output
+![Image](https://github.com/user-attachments/assets/7c3a5c7d-be0b-4894-95c9-26b8d3226945)
+
 
 
